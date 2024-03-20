@@ -1,0 +1,42 @@
+[INFO ] 2024-03-19 16:47:51.679 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-19 16:47:51.680 [main] MyStoreV1 - verifyLogin TC execution started
+[INFO ] 2024-03-19 16:47:54.406 [main] MyStoreV1 - Clicked on signup/login 
+[INFO ] 2024-03-19 16:47:54.591 [main] MyStoreV1 - Email entered 
+[INFO ] 2024-03-19 16:47:54.724 [main] MyStoreV1 - Password entered 
+[INFO ] 2024-03-19 16:47:58.694 [main] MyStoreV1 -  UserNamesam4560
+[INFO ] 2024-03-19 16:47:58.696 [main] MyStoreV1 -  verifyLogin---Passed 
+[INFO ] 2024-03-20 15:39:24.547 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-20 15:39:24.548 [main] MyStoreV1 - verifyLogin TC execution started
+[INFO ] 2024-03-20 15:39:25.790 [main] MyStoreV1 - Clicked on signup/login 
+[INFO ] 2024-03-20 15:39:25.941 [main] MyStoreV1 - Email entered 
+[INFO ] 2024-03-20 15:39:26.063 [main] MyStoreV1 - Password entered 
+[INFO ] 2024-03-20 15:39:29.694 [main] MyStoreV1 -  UserNamesam4560
+[INFO ] 2024-03-20 15:39:29.694 [main] MyStoreV1 -  verifyLogin---Passed 
+[INFO ] 2024-03-20 15:43:00.146 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-20 15:43:00.147 [main] MyStoreV1 - verifyLogin TC execution started
+[INFO ] 2024-03-20 15:43:01.721 [main] MyStoreV1 - Clicked on signup/login 
+[INFO ] 2024-03-20 15:43:01.912 [main] MyStoreV1 - Email entered 
+[INFO ] 2024-03-20 15:43:02.033 [main] MyStoreV1 - Password entered 
+[INFO ] 2024-03-20 15:43:05.883 [main] MyStoreV1 -  UserNamesam4560
+[INFO ] 2024-03-20 15:43:05.883 [main] MyStoreV1 -  verifyLogin---Passed 
+[INFO ] 2024-03-20 16:16:54.303 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-20 16:16:54.304 [main] MyStoreV1 - verifyLogin TC execution started
+[INFO ] 2024-03-20 16:16:55.547 [main] MyStoreV1 - Clicked on signup/login 
+[INFO ] 2024-03-20 16:16:55.816 [main] MyStoreV1 - Email entered 
+[INFO ] 2024-03-20 16:16:55.946 [main] MyStoreV1 - Password entered 
+[INFO ] 2024-03-20 16:16:58.599 [main] MyStoreV1 -  UserNamesam4560
+[INFO ] 2024-03-20 16:16:58.600 [main] MyStoreV1 -  verifyLogin---Passed 
+[INFO ] 2024-03-20 16:27:36.470 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-20 16:27:36.470 [main] MyStoreV1 - verifyLogin TC execution started
+[INFO ] 2024-03-20 16:27:38.772 [main] MyStoreV1 - Clicked on signup/login 
+[INFO ] 2024-03-20 16:27:38.986 [main] MyStoreV1 - Email entered 
+[INFO ] 2024-03-20 16:27:39.106 [main] MyStoreV1 - Password entered 
+[INFO ] 2024-03-20 16:27:43.570 [main] MyStoreV1 -  UserNamesam4560
+[INFO ] 2024-03-20 16:27:43.571 [main] MyStoreV1 -  verifyLogin---Passed 
+[INFO ] 2024-03-20 16:36:01.476 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-20 16:36:01.477 [main] MyStoreV1 - verifyLogin TC execution started
+[INFO ] 2024-03-20 16:36:03.030 [main] MyStoreV1 - Clicked on signup/login 
+[INFO ] 2024-03-20 16:36:03.233 [main] MyStoreV1 - Email entered 
+[INFO ] 2024-03-20 16:36:03.382 [main] MyStoreV1 - Password entered 
+[INFO ] 2024-03-20 16:36:07.491 [main] MyStoreV1 -  UserNamesam4560
+[INFO ] 2024-03-20 16:36:07.492 [main] MyStoreV1 -  verifyLogin---Passed 
